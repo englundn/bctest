@@ -1,0 +1,23 @@
+{
+  "name": "bctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englundn/bctest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/englundn/bctest/issues"
+  },
+  "homepage": "https://github.com/englundn/bctest#readme",
+  "dependencies": {
+    "archiver": "^1.3.0",
+    "aws-sdk": "^2.7.21"
+  }
+}
